@@ -3,8 +3,11 @@
 A Spring boot project to get idea how to start with it 
 
 ##Requirements:
+
 Maven
+
 MySQL
+
 JDK
 ```
 Create database in MysQL named "topics"
