@@ -5,7 +5,7 @@ Maven
 MySQL
 JDK
 
-Create database in MysQL named "topics"
+Create database in MysQL named "topics".
 Run the app
 
 Test the REST APIs for CRUD operations:
