@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-boot-mysql-rest-api-tutorial&apos; to &apos;spring-boot-mysql-rest-api&apos;" description="Rename resource &apos;spring-boot-mysql-rest-api-tutorial&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spring-boot-mysql-rest-api-tutorial" name="spring-boot-mysql-rest-api" stamp="1535358323246" updateReferences="true"/>
+</session>
